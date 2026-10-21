@@ -1,0 +1,17 @@
+# Arquivos gerados pelo Gradle e pelo Android Studio
+.gradle/
+.kotlin/
+build/
+/captures
+.externalNativeBuild/
+.cxx/
+
+# Configurações locais (caminho do Android SDK) e arquivos pessoais da IDE
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# Saídas de compilação
+*.apk
+*.aab
